@@ -41,7 +41,11 @@ One additional data set that is worth mentioning is our use of the geopandas ‘
 
 ### EXPERIMENTAL DESIGN
 
-Our project was based on an experimental design from the beginning. We studied the relationship between refugee locations and quantity of refugees. We started by identifying the top ten countries of origin and destination. We then studied further metrics on each country based on whether it was a top ten country of origin or asylum. We explored the potential statistics that could be displayed and chose a select few that were both meaningful and interesting. 
+Our project was based on an experimental design from the beginning. We studied the relationship between refugee locations and quantity of refugees. We started by identifying the top ten countries of origin and destination. We then studied further metrics on each country based on whether it was a top ten country of origin or asylum. We explored the potential statistics that could be displayed and chose a select few that were both meaningful and interesting.
+
+### BEYOND ORIGINAL SPECIFICATIONS
+
+Our group sought to design our program based on use cases. This inspiration created a program based on ease of use and defined our results and output, limited to things considered useful for these use-cases. Our program quickly guides the user through the range of selections available, curated for the most likely selections, enabling the user to learn more about one of the top ten countries of origin or asylum around the globe. With this in mind, we combined several data files and imported data from additional sources to create the full breadth of information we sought to provide. Additionally we created and displayed multi-dimensional visual displays in both time series charts and world maps. We curated our results for items that could be used to support decision making.
 
 ### RESULTS
 
