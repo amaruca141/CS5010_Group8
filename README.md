@@ -66,6 +66,9 @@ It is alarming to see the number of applicants seeking asylum from the country o
 
 A *case worker* seeking to advise a family from Venezuela decide where to apply for asylum may be tempted to recommend the United States based on our map displaying the total accepted refugees from Venzuela around the world. However, we can also see via our second map that Canada actually accepts about 30% more of their applicants than the United States does. While Canada falls short in total applicants accepted, a family from Venezuela may be more likely to receive refugee status by applying to Canada when compared to the United States.
 
+### Testing 
+Our program only required very simple unit testing. Instead much of our testing and validation was focused on the aggregated results of our data compared to other reliable sources. We utilized known statistics about refugees around the world to support and validate our finding. 
+
 ### CONCLUSIONS
 
 Simply viewing high level information about the refugee landscape around the world can have so many practical applications. Most importantly, though, it helps us to think more deeply about the struggles of those arriving in our own country and perhaps causes us to ask additional questions that may lead to more insight in the future. 
